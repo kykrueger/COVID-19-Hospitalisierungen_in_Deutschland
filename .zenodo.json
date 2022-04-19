@@ -5,41 +5,10 @@
   "access_right": "open",
   "license": "cc-by",
   "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
   "creators": [
     {
       "name": "Robert Koch-Institut",
       "affiliation": "Robert Koch-Institut"
-    }
-  ],
-  "contributors": [
-    {
-      "name": "Diercke, Michaela",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-4678-1813",
-      "type": "ProjectManager"
-    },
-    {
-      "name": "an der Heiden, Matthias",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0001-5863-4549",
-      "type": "Researcher"
-    },
-    {
-      "name": "Ullrich, Alexander",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-4894-6124",
-      "type": "DataManager"
-    },
-    {
-      "name": "Wuensche, Hannes",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-8837-0326",
-      "type": "DataCurator"
     }
   ],
   "keywords": [
